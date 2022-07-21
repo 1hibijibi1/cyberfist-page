@@ -1,0 +1,18 @@
+{
+    "backgroundType": "plain",
+    "plainBackgroundMode": "daylight",
+    "devIntro": "Cyberfist NFT",
+    "devDesc": "Cyberfist Minting begins Friday July 22nd 1pm PST",
+    "gradientColors": "#23A6D5, #23A6D5, #23A6D5, #23A6D5",
+    "backgroundImageUrl": "story.png",
+    "icons": [
+        {
+            "image": "fa-discord",
+            "url": "https://discord.com/invite/cyberfist"
+        },
+        {
+            "image": "fa-twitter",
+            "url": "https://twitter.com/Cyberfist_NFT"
+        }
+    ]
+}
